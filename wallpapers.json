@@ -1,0 +1,524 @@
+[
+  {
+    "id": "abstract_geomentry",
+    "name": "Abstract Geometry",
+    "categories": [
+      "dark-amoled"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/abstract_geomentry.png"
+  },
+  {
+    "id": "anime_night_sky",
+    "name": "Anime Night Sky",
+    "categories": [
+      "nature-worlds"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/anime_aesthetic_night_sky_glowing_stars_lone_temple_on_hill.jpg"
+  },
+  {
+    "id": "anime_warrior_boy",
+    "name": "Anime Warrior Boy",
+    "categories": [
+      "anime-warriors"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/anime_boy_side_pose_holding_long_sword_dramatic_dark_clouds.jpg"
+  },
+  {
+    "id": "anime_warrior_boy_2",
+    "name": "Anime Warrior Boy II",
+    "categories": [
+      "anime-warriors"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/anime_boy_side_pose_holding_long_sword_dramatic_dark_clouds_lightning.jpg"
+  },
+  {
+    "id": "anime_warrior_girl",
+    "name": "Anime Warrior Girl",
+    "categories": [
+      "anime-warriors",
+      "sakura-dreams"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/anime_girl_back_pose_holding_sword_upward_cherry_blossom_petals_falling.jpg"
+  },
+  {
+    "id": "anime_girl_katana",
+    "name": "Anime Girl with Katana",
+    "categories": [
+      "anime-warriors"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/anime_girl_with_long_flowing_hair_holding_katana_sword_sideways_pose.jpg"
+  },
+  {
+    "id": "cherry_blossom_landscape",
+    "name": "Cherry Blossom Landscape",
+    "categories": [
+      "sakura-dreams",
+      "nature-worlds"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/anime_style_landscape_cherry_blossom_trees_golden_sunset.jpg"
+  },
+  {
+    "id": "ankor_wat",
+    "name": "Ankor Wat",
+    "categories": [
+      "nature-worlds"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/ankor_wat.jpg"
+  },
+  {
+    "id": "bio_luminous_forest",
+    "name": "Bioluminous Forest",
+    "categories": [
+      "nature-worlds"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/bio_luminous_forest.png"
+  },
+  {
+    "id": "boy_hacker",
+    "name": "Boy Hacker",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_hacker_working_computer.png"
+  },
+  {
+    "id": "boy_headphone",
+    "name": "Boy with Headphones",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_headphone.jpeg"
+  },
+  {
+    "id": "boy_headphone_neon_city",
+    "name": "Boy Neon City",
+    "categories": [
+      "neon-city"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_headphone_neon_city.png"
+  },
+  {
+    "id": "boy_headphone_neon_modern_city",
+    "name": "Boy Neon Modern City",
+    "categories": [
+      "neon-city"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_headphone_neon_modern_city.jpeg"
+  },
+  {
+    "id": "boy_headphones_walking",
+    "name": "Boy Walking Headphones",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_headphones_walking.png"
+  },
+  {
+    "id": "boy_lofi_computer",
+    "name": "Lofi Boy Computer",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_lofi_working_computer.png"
+  },
+  {
+    "id": "boy_lofi_laptop_coffee",
+    "name": "Lofi Boy & Coffee",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_lofi_working_laptop_coffee.jpeg"
+  },
+  {
+    "id": "boy_loner_phone",
+    "name": "Lone Boy on Phone",
+    "categories": [
+      "aesthetic"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_loner_phone.jpeg"
+  },
+  {
+    "id": "boy_mountain_phone",
+    "name": "Boy Mountain Phone",
+    "categories": [
+      "aesthetic"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_mountain_seeing_phone.jpeg"
+  },
+  {
+    "id": "boy_phone",
+    "name": "Boy on Phone",
+    "categories": [
+      "aesthetic"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_phone.jpeg"
+  },
+  {
+    "id": "boy_sitting_headphones",
+    "name": "Boy Sitting Headphones",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_sitting_with_headphones.png"
+  },
+  {
+    "id": "boy_sword_lightning",
+    "name": "Boy Sword Lightning",
+    "categories": [
+      "anime-warriors"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_sword_lightning.png"
+  },
+  {
+    "id": "boy_sword_upwards",
+    "name": "Boy Sword Upwards",
+    "categories": [
+      "anime-warriors",
+      "epic-skies"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_sword_upwards.png"
+  },
+  {
+    "id": "boy_terrace_phone",
+    "name": "Boy on Terrace",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_terrace_phone.png"
+  },
+  {
+    "id": "boy_working_laptop",
+    "name": "Boy Working Laptop",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/boy_working_laptop.jpeg"
+  },
+  {
+    "id": "dark_warrior",
+    "name": "Dark Warrior",
+    "categories": [
+      "anime-warriors",
+      "epic-skies"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/ChatGPT%20Image%20Jun%2014%2C%202026%2C%2007_20_00%20PM.png"
+  },
+  {
+    "id": "cyberpunk_city",
+    "name": "Cyberpunk City",
+    "categories": [
+      "neon-city"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/cyberpunk_city.jpg"
+  },
+  {
+    "id": "dark_amoled_golden",
+    "name": "Dark AMOLED Golden",
+    "categories": [
+      "dark-amoled"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/dark_amoled_wallpaper_glowing_golden_geometric_patterns_deep_black_ultra_sharp.jpg"
+  },
+  {
+    "id": "dark_space_nebula",
+    "name": "Dark Space Nebula",
+    "categories": [
+      "dark-amoled"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/dark_space_wallpaper_nebula_colors.jpg"
+  },
+  {
+    "id": "girl_bed_phone",
+    "name": "Girl Smiling on Phone",
+    "categories": [
+      "aesthetic"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_bed_phone_smiling.jpeg"
+  },
+  {
+    "id": "girl_bun_hair_laptop",
+    "name": "Girl Laptop Bun Hair",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_bun_hair_laptop_working.jpeg"
+  },
+  {
+    "id": "girl_hacker",
+    "name": "Girl Hacker",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_hacker_multi_computer.png"
+  },
+  {
+    "id": "girl_headphones_city_wet",
+    "name": "Girl in Rain City",
+    "categories": [
+      "neon-city"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_headphones_city_wet.jpeg"
+  },
+  {
+    "id": "girl_laptop_working",
+    "name": "Girl Laptop",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_laptop_working.jpeg"
+  },
+  {
+    "id": "girl_lofi_hacker",
+    "name": "Girl Lofi Hacker",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_lofi_coding_hacking_multi_computers.jpeg"
+  },
+  {
+    "id": "girl_lying_phone",
+    "name": "Girl Lying with Phone",
+    "categories": [
+      "aesthetic"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_lying_in_bed_phone.png"
+  },
+  {
+    "id": "girl_pink_headphones_blossom",
+    "name": "Girl Pink Headphones Blossom",
+    "categories": [
+      "lofi-vibes",
+      "sakura-dreams",
+      "aesthetic"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_pink_headphones_blossom_cherry.jpeg"
+  },
+  {
+    "id": "girl_studying_headphones",
+    "name": "Girl Studying",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_studying_with_headphones_laptop.png"
+  },
+  {
+    "id": "girl_sword_upwards",
+    "name": "Girl Sword Upwards",
+    "categories": [
+      "anime-warriors"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_sword_upwards.png"
+  },
+  {
+    "id": "girl_hacker_glasses",
+    "name": "Girl Hacker Glasses",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_with_glasses_coding_hacking_multi_computers.jpeg"
+  },
+  {
+    "id": "girl_headphones_walking",
+    "name": "Girl Walking Headphones",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_with_headphones_walking.png"
+  },
+  {
+    "id": "girl_with_phone",
+    "name": "Girl with Phone",
+    "categories": [
+      "aesthetic"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_with_phone.jpeg"
+  },
+  {
+    "id": "girl_with_phone_2",
+    "name": "Girl with Phone 2",
+    "categories": [
+      "aesthetic"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_with_phone.png"
+  },
+  {
+    "id": "girl_with_sword",
+    "name": "Girl with Sword",
+    "categories": [
+      "anime-warriors"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/girl_with_sword.png"
+  },
+  {
+    "id": "hacker_boy_green",
+    "name": "Green Hacker Boy",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/hacker_boy_green_multi_computers.jpeg"
+  },
+  {
+    "id": "lone_boy",
+    "name": "Lone Boy",
+    "categories": [
+      "aesthetic"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/lone_boy.jpeg"
+  },
+  {
+    "id": "modern_samurai_city",
+    "name": "Modern Samurai City",
+    "categories": [
+      "anime-warriors",
+      "neon-city"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/modern_samurai_city.jpeg"
+  },
+  {
+    "id": "mountain_skies",
+    "name": "Mountain Skies",
+    "categories": [
+      "nature-worlds",
+      "epic-skies"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/mountain_skies.png"
+  },
+  {
+    "id": "nebula_sky",
+    "name": "Nebula Sky",
+    "categories": [
+      "dark-amoled"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/nebula_sky.png"
+  },
+  {
+    "id": "neon_city",
+    "name": "Neon City",
+    "categories": [
+      "neon-city"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/neon_city.png"
+  },
+  {
+    "id": "neon_city_2",
+    "name": "Neon City 2",
+    "categories": [
+      "neon-city"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/neon_city_2.jpg"
+  },
+  {
+    "id": "samurai_orange_sky",
+    "name": "Samurai Orange Sky",
+    "categories": [
+      "anime-warriors",
+      "epic-skies"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/samurai_orange_sky.jpeg"
+  },
+  {
+    "id": "stylish_samurai",
+    "name": "Stylish Samurai",
+    "categories": [
+      "anime-warriors",
+      "epic-skies"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/stylish_samurai.png"
+  },
+  {
+    "id": "ultra_dark_abstract",
+    "name": "Ultra Dark Abstract",
+    "categories": [
+      "dark-amoled"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/ultra_detailed_dark_abstract_wallpaper_deep_black_background_neon.jpg"
+  },
+  {
+    "id": "anime-warriors_001_a_blindfolded_sorcerer_in_black_robes_infinity_domain_glowi",
+    "name": "Anime-Warriors 001 A Blindfolded Sorcere",
+    "categories": [
+      "anime-warriors"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/anime-warriors_001_a_blindfolded_sorcerer_in_black_robes_infinity_domain_glowi.jpg"
+  },
+  {
+    "id": "anime-warriors_003_a_cursed_spirit_emerging_from_black_water_hollow_glowing_ey",
+    "name": "Anime-Warriors 003 A Cursed Spirit Emerg",
+    "categories": [
+      "anime-warriors"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/anime-warriors_003_a_cursed_spirit_emerging_from_black_water_hollow_glowing_ey.jpg"
+  },
+  {
+    "id": "anime-warriors_005_a_lone_sorcerer_standing_on_a_crumbling_building_city_on_fi",
+    "name": "Anime-Warriors 005 A Lone Sorcerer Stand",
+    "categories": [
+      "anime-warriors"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/anime-warriors_005_a_lone_sorcerer_standing_on_a_crumbling_building_city_on_fi.jpg"
+  },
+  {
+    "id": "anime-warriors_007_a_silver_haired_sorcerer_with_glowing_blue_eyes_standing_in",
+    "name": "Anime-Warriors 007 A Silver Haired Sorce",
+    "categories": [
+      "anime-warriors"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/anime-warriors_007_a_silver_haired_sorcerer_with_glowing_blue_eyes_standing_in.jpg"
+  },
+  {
+    "id": "anime-warriors_009_two_powerful_sorcerers_facing_off_on_a_dark_rooftop_at_nigh",
+    "name": "Anime-Warriors 009 Two Powerful Sorcerer",
+    "categories": [
+      "anime-warriors"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/anime-warriors_009_two_powerful_sorcerers_facing_off_on_a_dark_rooftop_at_nigh.jpg"
+  },
+  {
+    "id": "lofi-vibes_001_gpt_image_2_a_cinematic_photo_of_a_boy_reading_manga_under_a",
+    "name": "Lofi-Vibes 001 Gpt Image 2 A Cinematic P",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/lofi-vibes_001_gpt_image_2_a_cinematic_photo_of_a_boy_reading_manga_under_a.jpg"
+  },
+  {
+    "id": "lofi-vibes_003_gpt_image_2_a_cinematic_photo_of_a_boy_reading_manga_under_a",
+    "name": "Lofi-Vibes 003 Gpt Image 2 A Cinematic P",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/lofi-vibes_003_gpt_image_2_a_cinematic_photo_of_a_boy_reading_manga_under_a.jpg"
+  },
+  {
+    "id": "lofi-vibes_005_anime_character_silhouette_at_a_caf_window_at_night_rain_0",
+    "name": "Lofi-Vibes 005 Anime Character Silhouett",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/lofi-vibes_005_anime_character_silhouette_at_a_caf_window_at_night_rain_0.jpg"
+  },
+  {
+    "id": "lofi-vibes_007_an_anime_girl_sitting_on_a_fire_escape_with_headphones_city",
+    "name": "Lofi-Vibes 007 An Anime Girl Sitting On",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/lofi-vibes_007_an_anime_girl_sitting_on_a_fire_escape_with_headphones_city.jpg"
+  },
+  {
+    "id": "lofi-vibes_009_an_anime_girl_studying_at_a_desk_by_a_rainy_window_warm_lam",
+    "name": "Lofi-Vibes 009 An Anime Girl Studying At",
+    "categories": [
+      "lofi-vibes"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/lofi-vibes_009_an_anime_girl_studying_at_a_desk_by_a_rainy_window_warm_lam.jpg"
+  },
+  {
+    "id": "epic-skies_001_a_girl_lying_on_her_bed_staring_at_the_ceiling_with_stars_p",
+    "name": "Epic-Skies 001 A Girl Lying On Her Bed S",
+    "categories": [
+      "epic-skies"
+    ],
+    "url": "https://cdn.jsdelivr.net/gh/dhivyasundaram312/yamiwalls-assets@main/epic-skies_001_a_girl_lying_on_her_bed_staring_at_the_ceiling_with_stars_p.jpg"
+  }
+]
